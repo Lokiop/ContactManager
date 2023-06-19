@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "c759dbab-55a8-43a2-9c96-19faae6501c6",
+      "name": "Darshan Heda",
+      "email": "d@d.com"
+    },
+    {
+      "id": "29885f60-89f3-4912-9ac8-7c1c17266783",
+      "name": "Happy",
+      "email": "h@s.com"
+    },
+    {
+      "id": "99ef161b-effd-4ccc-9426-664d26e7b6fe",
+      "name": "Rupesh",
+      "email": "r@s.com"
+    }
+  ]
+}
